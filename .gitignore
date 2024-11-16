@@ -1,0 +1,15 @@
+# 仮想環境
+venv/
+env/
+
+# Python キャッシュファイル
+__pycache__/
+*.pyc
+*.pyo
+
+# 環境変数や秘密情報
+.env
+
+# OS 特有の一時ファイル
+.DS_Store
+Thumbs.db
